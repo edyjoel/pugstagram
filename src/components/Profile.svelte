@@ -31,7 +31,7 @@
 <div class="Profile">
   <div class="Profile-content">
     <div class="Profile-avatar">
-      <img src="http://drive.google.com/uc?export=view&id=1CJ_W-htowdkVYqpVFmAWxwPEUOgMNzKD" alt="Edy Xicón">
+      <img src="https://drive.google.com/uc?export=view&id=1CJ_W-htowdkVYqpVFmAWxwPEUOgMNzKD" alt="Edy Xicón">
     </div>
     <div class="Profile-info">
       <h2>{ nickname }</h2>

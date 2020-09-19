@@ -66,7 +66,7 @@
     <div class="Stories-items">
       <div class="Stories-item">
         <div class="Stories-item-box">
-          <img src="http://drive.google.com/uc?export=view&id=1CJ_W-htowdkVYqpVFmAWxwPEUOgMNzKD" alt="Edy Xicón">
+          <img src="https://drive.google.com/uc?export=view&id=1CJ_W-htowdkVYqpVFmAWxwPEUOgMNzKD" alt="Edy Xicón">
         </div>
         <h2>
           edyjoelx
