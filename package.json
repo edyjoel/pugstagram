@@ -4,22 +4,22 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode production",
-    "start": "webpack-dev-server --open --mode development"
+    "dev": "sapper dev",
+    "build": "sapper build",
+    "export": "sapper export",
+    "start": "node __sapper__/build"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "svelte": "^3.25.0"
+    "compression": "^1.7.4",
+    "polka": "^0.5.2",
+    "sirv": "^1.0.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.11.6",
-    "@babel/polyfill": "^7.11.5",
-    "@babel/preset-env": "^7.11.5",
-    "babel-loader": "^8.1.0",
-    "html-webpack-plugin": "^4.4.1",
+    "svelte": "^3.25.0",
+    "sapper": "^0.28.7",
     "svelte-loader": "^2.13.6",
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^4.44.1"
   }
 }
